@@ -1,0 +1,10 @@
+version: '3'
+services:
+  projectjava:
+    build: .
+    image: image_rest_assured_kotlin:latest
+    volumes:
+      - .:/usr/src/app/
+    ports:
+      - "9515:9515"
+    command: mvn clean test -Denvironments=prod

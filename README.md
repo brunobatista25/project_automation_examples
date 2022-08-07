@@ -2,7 +2,7 @@
 
 - [API](#entregáveis)
     - [Rest Assured](https://github.com/brunobatista25/project_automation_examples/blob/master/Api/rest_assured/)
-    - [Rest Assured com kotlin](#a-fazer) (EM BREVE...)
+    - [Rest Assured com kotlin](#a-fazer) (https://github.com/brunobatista25/project_automation_examples/blob/master/Api/rest_assured_kotlin/)
     - [HTTParty](#a-fazer) (EM BREVE...)
     - [Serenity-BDD](#a-fazer) (EM BREVE...)
     - [RestSharp](#a-fazer) (EM BREVE...)

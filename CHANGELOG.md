@@ -4,3 +4,4 @@
 
 - Criação do projeto
 - Adicionando o primeiro projeto rest assured
+- Adicionando o primeiro projeto rest assured com kotlin

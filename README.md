@@ -1,2 +1,23 @@
-# project_automation_examples
-Exemplos de projetos de automação prar web , mobile e Api em varias linguagens
+# Repositório de exemplos de automações API, WEB e Mobile!
+
+- [API](#entregáveis)
+    - [Rest Assured](https://github.com/brunobatista25/project_automation_examples/blob/master/Api/rest_assured/README.md))
+    - [HTTParty](EM BREVE...)
+    - [Serenity-BDD](EM BREVE...)
+    - [RestSharp](EM BREVE...)
+    - [Karate-DSL](EM BREVE...)
+    - [Supertest](EM BREVE...)
+    - [Frisby](EM BREVE...)
+    - [Robotframework-RequestLibrary](EM BREVE...)
+- [Web](#instruções-para-entregar-seu-projeto)
+    - [Selenium-com-java](EM BREVE...)
+    - [Selenium-com-C#](EM BREVE...)
+    - [Capybara](EM BREVE...)
+    - [Watir](EM BREVE...)
+    - [Cypress](EM BREVE...)
+    - [Playright](EM BREVE...)
+    - [Robotframework-SeleniumLibrary](EM BREVE...)
+- [Mobile](#como-desenvolver)
+    - [Robotframework-AppiumLibrary](EM BREVE...)
+    - [Appium-com-Ruby](EM BREVE...)
+    - [Appium-com-Java](EM BREVE...)
